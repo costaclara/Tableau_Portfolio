@@ -4,7 +4,7 @@ Projeto 1
 
 Link:
 
-Descrição:
+Descrição
 
 Conclusões:
 
